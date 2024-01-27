@@ -1,4 +1,4 @@
-How to run the Student Management System (StudentMS) Project
+How to run the College Administration System(StudentMS)Project
 
 1. Download the  zip file
 
